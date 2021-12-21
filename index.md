@@ -1,3 +1,3 @@
-## Come back soon...
+# Welcome
 
-We are still working on this site.
+Turing Software, LLC develops apps for iOS and macOS. We can be reached via email: contact (at) turing (dot) llc
